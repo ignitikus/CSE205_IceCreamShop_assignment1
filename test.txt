@@ -1,0 +1,10 @@
+singlecone
+doublecone
+singlecone
+soda
+concrete
+malt
+wafflecone
+soda
+float
+turtle

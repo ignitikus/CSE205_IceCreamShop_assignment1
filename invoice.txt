@@ -1,0 +1,9 @@
+ IMMEDIATE INDULGENCES ICE-CREAM
+---------------------------------
+DOUBLE SCOOP CONE    -      $3.50
+WAFFLE CONE          -      $4.00
+BANANA SPLIT         -      $5.00
+---------------------------------
+            Subtotal -      12.50
+                 Tax -       0.63
+               Total -      13.13
